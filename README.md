@@ -20,7 +20,6 @@ One of the major such problems is limited customization options:- Online furnitu
   - PyTorch
   - Stable Diffusion
   - Point-E
-  - HuggingFace Diffusers
   - Streamlit
   - Firebase
   
