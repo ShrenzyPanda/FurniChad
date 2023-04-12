@@ -21,7 +21,6 @@ One of the major such problems is limited customization options:- Online furnitu
   - Stable Diffusion
   - Point-E
   - Streamlit
-  - Firebase
   
 ## **How to use?**
 <p>Clone the repository with the following command:-</p>
